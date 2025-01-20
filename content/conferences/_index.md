@@ -6,7 +6,7 @@ description: "Peer-reviewed presentations"
 # Invited talks
 Sgrizzi, T. (2024), *When infinitives are not under control: the Growing Trees Hypothesis and the developmental advantage of restructuring verbs*, Seminari di Linguistica, University of Padua, 12th December 2024
 
-# Conference Talks and Poster presentations
+# Conference Talks
 
 ## 2024
 
