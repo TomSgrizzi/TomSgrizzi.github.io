@@ -3,12 +3,12 @@ title: "Conferences"
 description: "Peer-reviewed presentations"
 ---
 
-## Invited talks
+# Invited talks
 Sgrizzi, T. (2024), *When infinitives are not under control: the Growing Trees Hypothesis and the developmental advantage of restructuring verbs*, Seminari di Linguistica, University of Padua, 12th December 2024
 
-## Conference Talks and Poster presentations
+# Conference Talks and Poster presentations
 
-# 2024
+## 2024
 
 Sgrizzi, T. (2024), *Split-Feature Inheritance and the Labeling of Root Infinitives*, Talk at _Current issues in syntax, semantics and pragmatics_, workshop at ÖLT - Österreichische Linguistiktagung 2024, University of Innsbruck, December 19th
 
